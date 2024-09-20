@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cshVariablesIO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cabbc8d60cb6d4bfbff4c5ab797f65e9b9c1cda2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3058830be5ca8d2e98035ccb25e7434e3f7f2406")]
 [assembly: System.Reflection.AssemblyProductAttribute("cshVariablesIO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cshVariablesIO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
